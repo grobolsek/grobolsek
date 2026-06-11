@@ -6,4 +6,4 @@ My name is Matic, my online tag is Tici almost everywhere except for a few excep
 - I'm keen to learn more languages, but the one I'm best at Python.
 - Currently I'm working in Knauf Insulation for a data scientist as a student
 
-You can reach me via email: grobolsek.dev@pm.me
+You can reach me via email: [grobolsek.dev@pm.me](mailto:grobolsek.dev@pm.me)
